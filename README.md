@@ -1,3 +1,7 @@
 # Calculadora - Web-II
 *Projeto de uma calculadora simples utilizando HTML, CSS, JavaScript e framework Vue.js.*
-![Captura de tela 2024-04-07 131003](https://github.com/VNCSbpuhl/Calculadora---Web-II/assets/141787258/6446e845-366f-4829-a14d-45578d848ac6)
+
+
+
+https://github.com/VNCSbpuhl/Calculadora---Web-II/assets/141787258/d7acba01-989d-4f1d-9718-dc3801011952
+
